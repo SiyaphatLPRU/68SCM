@@ -9,5 +9,6 @@
 </head>
 <body>
     <?php echo 'hello'; ?>
+    <?php echo '1234'; ?>
 </body>
 </html>
