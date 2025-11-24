@@ -9,5 +9,6 @@
 </head>
 <body>
     <?php echo 'hello'; ?>
+    <?php echo 'i'm tik'; ?>
 </body>
 </html>
