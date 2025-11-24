@@ -10,5 +10,6 @@
 <body>
     <?php echo 'hello'; ?>
     <?php echo 'i'm tik'; ?>
+    <?php echo 'หวัดดี'; ?>
 </body>
 </html>
